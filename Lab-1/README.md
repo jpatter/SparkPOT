@@ -35,4 +35,4 @@ Upon completing the lab, you will know how to:
 
 ### Step 4.  Follow the instructions in the notebook.
 
-> <img src="https://github.com/jpatter/SparkPOT/blob/master/Lab-1/images/SparkPOT.PNG"/>
+> <img src="https://github.com/jpatter/SparkPOT/blob/master/Lab-1/images/SparkPOT-Lab1.PNG"/>
