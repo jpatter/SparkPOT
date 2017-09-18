@@ -25,7 +25,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 3.  Create the notebook.
 
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Lab-1/images/DSX-ML-CreateNotebook.PNG"/>
+> <img src="https://github.com/jpatter/SparkPOT/blob/master/Lab-2/images/SparkPOT-CreateNotebook-Lab2.PNG"/>
 
 1. Click the `From URL` tab under `Create Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Spark Lab-1` and optionally you can give it a description.
